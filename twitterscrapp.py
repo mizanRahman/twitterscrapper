@@ -6,7 +6,7 @@
 #
 # Created:     19/08/2011
 # Copyright:   (c) mizan 2011
-# Licence:     <your licence>
+# Licence:     <open source licenced under gnu/gpl>
 #-------------------------------------------------------------------------------
 #!/usr/bin/env python
 
@@ -44,5 +44,5 @@ for link in links:
 
 
 
-print ("have a good coding")
+print ("happy coding")
 
